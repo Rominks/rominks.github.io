@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rominks.github.io/posts/about/</loc>
-    <lastmod>2024-09-17T17:07:47+03:00</lastmod>
+    <loc>https://rominks.github.io/posts/gigachadcode/</loc>
+    <lastmod>2024-09-17T17:20:13+03:00</lastmod>
   </url><url>
     <loc>https://rominks.github.io/</loc>
-    <lastmod>2024-09-17T17:07:47+03:00</lastmod>
+    <lastmod>2024-09-17T17:20:13+03:00</lastmod>
   </url><url>
     <loc>https://rominks.github.io/posts/</loc>
+    <lastmod>2024-09-17T17:20:13+03:00</lastmod>
+  </url><url>
+    <loc>https://rominks.github.io/posts/about/</loc>
     <lastmod>2024-09-17T17:07:47+03:00</lastmod>
   </url><url>
     <loc>https://rominks.github.io/categories/</loc>
